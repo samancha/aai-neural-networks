@@ -4,3 +4,6 @@ tensorflow
 torch
 nbconvert
 pandoc
+matplotlib
+seaborn
+scikit-learn
